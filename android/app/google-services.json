@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932301770051",
+    "project_id": "passion-pak",
+    "storage_bucket": "passion-pak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932301770051:android:8ff1f9a1fb8f5391cb73f6",
+        "android_client_info": {
+          "package_name": "com.dianutomo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932301770051-d6cu82jbu907est4sum9kuc659d2mne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7qsSG-fpSHAf7dOgzVb7KAkiVv5m0ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932301770051-d6cu82jbu907est4sum9kuc659d2mne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
